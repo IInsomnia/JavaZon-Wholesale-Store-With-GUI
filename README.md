@@ -1,4 +1,4 @@
-# JavaZon-Wholesate-Store-With-GUI
+# JavaZon-Wholesale-Store-With-GUI
 
 A interactive Java program with a GUI that accepts inputs from the user, validates for any errors, perform some calculations, then  generates the Subtotal, Tax, and Total price of the order after successful validation from user inputs.
 Data can also be imported or exported from and to a text file
